@@ -1,20 +1,20 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Payment.Api.Tests")]
-[assembly: AssemblyProduct("Payment.Api.Tests")]
+[assembly: AssemblyTitle("Payment.Service")]
+[assembly: AssemblyProduct("Payment.Service")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
-
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7b15fb26-6881-4706-bdab-9a6a6f8d0990")]
+[assembly: Guid("d0251641-c2c1-4e6b-b67c-cd889c5ec75a")]
 
 // Version information for an assembly consists of the following four values:
 //
